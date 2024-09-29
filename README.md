@@ -1,6 +1,6 @@
 # Tartrazine-Induced Skin Transparency in Mice
 
-[Link to MY Relevant Presentation](https://www.figma.com/deck/CvLVfrjM53WDm3f0cAvqaa)
+[Link to My Relevant Presentation](https://www.figma.com/deck/CvLVfrjM53WDm3f0cAvqaa)
 
 This repository contains a research study examining the effects of tartrazine, a common yellow food dye, on the transparency of mouse skin. The study explores the potential applications of this phenomenon in non-invasive imaging and its implications for biomedical research and clinical practice.
 

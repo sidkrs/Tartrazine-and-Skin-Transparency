@@ -49,7 +49,7 @@ Tartrazine-induced transparency in living tissues presents a promising approach 
 ## How to Use the Repository
 - Download or clone the repository to access the full dataset and analysis.
 - The images provided give a visual understanding of the key findings of the study.
-- Additional details are available in the attached [research article](figures/Article.pdf).
+- Additional details are available in the attached [research report](Report.pdf).
 
 ## References
 - Ou et al., "Achieving optical transparency in live animals with absorbing molecules", Science, 2024.
